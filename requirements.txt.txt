@@ -1,0 +1,13 @@
+colorama
+console
+readchar
+requests
+urllib3
+configparser
+stem
+requests[socks]
+git+https://github.com/ammaraskar/pyCraft.git
+PySocks
+customtkinter
+PyYAML
+psutil
